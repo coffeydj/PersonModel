@@ -211,7 +211,7 @@ public class SafeInput
     }
     /**
      * Get a string that matches a RegEx pattern! This is a very powerful method 
-     * @param pipe - Scanner instance to read the data System.in in most cases
+     * @param pipe - Scanner instance to read the data System.in, in most cases
      * @param prompt - prompt for user
      * @param regExPattern - java style RegEx pattern to constrain the input
      * @return a String that matches the RegEx pattern supplied
